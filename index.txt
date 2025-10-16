@@ -4,3 +4,4 @@ c.txt
 d.txt
 ANIMALS
 birdS
+fishes
